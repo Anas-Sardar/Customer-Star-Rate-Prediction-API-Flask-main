@@ -1,0 +1,9 @@
+Flask
+numpy
+gunicorn
+pandas
+contractions
+nltk
+bs4
+beautifulsoup4~=4.11.1
+
